@@ -1,4 +1,4 @@
-# project-1
+# Covid-19 Report
 
 ## Factors Contributing to COVID-19 Deaths: A Comprehensive Data Analysis
 
